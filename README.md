@@ -4,4 +4,4 @@
 Bal Van balvan97@gmail.com
 
 # Purpose:
-Create a repository of Unix Scripts to automate a myriad of tasks.
+Host a repository of Unix Scripts that automate a myriad of common and repetitive tasks.
