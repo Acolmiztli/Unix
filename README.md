@@ -1,2 +1,2 @@
-# Unix
-Unix Scripts: A repository list for Unix Scripts
+# Unix Scripts
+A repository for Unix Scripts
